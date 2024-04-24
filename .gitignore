@@ -1,0 +1,5 @@
+deploy/backend/venv
+deploy/backend/assets/models/yolov8_best_862.pt
+deploy/backend/assets/models/yolov9_best_85.pt
+deploy/backend/assets/models/rt-detr_best_865.pt
+deploy/backend/test.py
