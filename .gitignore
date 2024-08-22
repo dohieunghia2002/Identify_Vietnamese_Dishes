@@ -1,0 +1,8 @@
+dataset_classification/
+dataset_food/
+deploy/backend/assets/models/
+models/
+testing/
+dataset_food.zip
+output.xlsx
+make_discuss.py

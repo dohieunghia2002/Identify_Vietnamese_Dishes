@@ -1,0 +1,2 @@
+khởi động venv: venv/Scripts/activate
+thoát venv: deactivate
